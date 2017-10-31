@@ -1,0 +1,6 @@
+c:\users\dytel\source\repos\Lab2Varian8\Lab2Varian8\bin\Debug\Lab2Varian8.dll
+c:\users\dytel\source\repos\Lab2Varian8\Lab2Varian8\bin\Debug\Lab2Varian8.pdb
+c:\users\dytel\source\repos\Lab2Varian8\Lab2Varian8\obj\Debug\Lab2Varian8.csprojResolveAssemblyReference.cache
+c:\users\dytel\source\repos\Lab2Varian8\Lab2Varian8\obj\Debug\Lab2Varian8.csproj.CoreCompileInputs.cache
+c:\users\dytel\source\repos\Lab2Varian8\Lab2Varian8\obj\Debug\Lab2Varian8.dll
+c:\users\dytel\source\repos\Lab2Varian8\Lab2Varian8\obj\Debug\Lab2Varian8.pdb
